@@ -12,6 +12,7 @@ body{
     font-size: 14px;
     line-height: 22px; /*sets distance between line of texts*/
     color: white;
+   
 }
 .bold{ /*This is for our headings*/
     font-weight: 700;
